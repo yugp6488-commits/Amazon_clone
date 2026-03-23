@@ -38,6 +38,3 @@ Check out the Live Site   :
 [yugp6488]
 (https://github.com/yugp6488-commits)
 
-responsive-design" > requirements.txt
-
-git add . && git commit -m "docs: expand README with technical details" && git push origin main
